@@ -10,4 +10,4 @@ Open project file() in IDE C++ Builder6 and execute compile.
 Screenshots
 ===========================
 
-![alt text](https://www.odesk.com/att/~~VINXiRTgqgr3nlWlxmUieqU2TTclNEg4uDTAcPTgqaWgexX3odj0qiNqYXO-uU7f1U7ztQUjcC9YDtdN9lf9tw==)
+![alt Main window: left - encoding, right - decoding](https://yadi.sk/i/l0ah7IdabrwPu)
